@@ -1,0 +1,21 @@
+{
+  "name": "devault",
+  "owner": {
+    "name": "HYDRANODE LTD",
+    "email": "founder@devault.design",
+    "url": "https://devault.design"
+  },
+  "metadata": {
+    "description": "Devault's plugin for Claude: real UI design references and ready-made design systems."
+  },
+  "plugins": [
+    {
+      "name": "devault",
+      "source": "./plugins/devault",
+      "description": "Search and study real UI design references, analyze design patterns across shipped products, and fetch ready-made design systems from the Devault library.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["design", "ui", "ux", "design-systems", "research"]
+    }
+  ]
+}

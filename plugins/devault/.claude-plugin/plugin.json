@@ -1,0 +1,20 @@
+{
+  "name": "devault",
+  "displayName": "Devault",
+  "version": "1.0.0",
+  "description": "Search and study real UI design references, analyze design patterns across shipped products, and fetch ready-made design systems from the Devault library.",
+  "author": {
+    "name": "HYDRANODE LTD",
+    "email": "founder@devault.design",
+    "url": "https://devault.design"
+  },
+  "homepage": "https://devault.design/mcp",
+  "repository": "https://github.com/devault-design/claude-plugin",
+  "license": "LicenseRef-Devault",
+  "keywords": ["design", "ui", "ux", "design-references", "design-systems", "research", "mcp"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://devault.design/mcp",
+  "supportUrl": "https://devault.design/support",
+  "privacyPolicyUrl": "https://devault.design/privacy",
+  "termsOfServiceUrl": "https://devault.design/terms"
+}
