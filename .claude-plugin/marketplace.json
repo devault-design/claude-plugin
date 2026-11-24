@@ -1,7 +1,7 @@
 {
   "name": "devault",
   "owner": {
-    "name": "HYDRANODE LTD",
+    "name": "Devault",
     "email": "founder@devault.design",
     "url": "https://devault.design"
   },
@@ -13,9 +13,15 @@
       "name": "devault",
       "source": "./plugins/devault",
       "description": "Search and study real UI design references, analyze design patterns across shipped products, and fetch ready-made design systems from the Devault library.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "design",
-      "tags": ["design", "ui", "ux", "design-systems", "research"]
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "design-systems",
+        "research"
+      ]
     }
   ]
 }
